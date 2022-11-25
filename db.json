@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "syam",
+      "author": "syam"
+    },
+    {
+      "id": 3,
+      "title": "sundar",
+      "author": "sundar"
+    },
+    {
+      "id": 36,
+      "title": "reddy",
+      "author": "reddy"
+    },
+    {
+      "id": 410,
+      "title": "Hiiii",
+      "author": "Hiiii"
+    },
+    {
+      "id": 945,
+      "title": "30 seconds window",
+      "author": "30 seconds window"
+    },
+    {
+      "id": 312,
+      "title": "hi",
+      "author": "hi"
+    },
+    {
+      "id": 326,
+      "title": "addNew for test",
+      "author": "addNew for test"
+    },
+    {
+      "id": 821,
+      "title": "serversideTest",
+      "author": "serversideTest"
+    },
+    {
+      "id": 561,
+      "title": "hiii",
+      "author": "hiii"
+    },
+    {
+      "id": 645,
+      "title": "newTest",
+      "author": "newTest"
+    },
+    {
+      "id": 938,
+      "title": "testt123",
+      "author": "testt123"
+    },
+    {
+      "id": 474,
+      "title": "test123123",
+      "author": "test123123"
+    },
+    {
+      "id": 9,
+      "title": "newroute",
+      "author": "newroute"
+    },
+    {
+      "id": 626,
+      "title": "new",
+      "author": "new"
+    },
+    {
+      "id": 776,
+      "title": "testShallow",
+      "author": "testShallow"
+    },
+    {
+      "id": 95,
+      "title": "testnoshallow",
+      "author": "testnoshallow"
+    },
+    {
+      "id": 565,
+      "title": "test",
+      "author": "test"
+    },
+    {
+      "id": 941,
+      "title": "testpost",
+      "author": "testpost"
+    },
+    {
+      "id": 696,
+      "title": "123",
+      "author": "123"
+    },
+    {
+      "id": 431,
+      "title": "test",
+      "author": "test"
+    },
+    {
+      "id": 543,
+      "title": "sss",
+      "author": "sss"
+    },
+    {
+      "id": 575,
+      "title": "test43215",
+      "author": "test43215"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

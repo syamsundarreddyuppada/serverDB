@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+    height: 100%;
+}
+.flex_ac{
+    display: flex;
+    align-items: center;
+}
